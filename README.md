@@ -1,28 +1,28 @@
-# 🏆 FIFA World Cup — Exploratory Data Analysis (1930–2014)
+# FIFA World Cup — Exploratory Data Analysis (1930–2014)
 
 An interactive **Tableau dashboard** exploring 84 years of FIFA World Cup history — from the inaugural 1930 tournament in Uruguay to the 2014 edition in Brazil.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![FIFA World Cup Dashboard](assets/Dashboard.png)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 | Insight | Detail |
 |---|---|
-| **Most Titles** | 🇧🇷 Brazil — 5 World Cup wins |
-| **Most Finals Appearances** | 🇧🇷 Brazil — 6 Finals, 9 Semi-Finals |
-| **Most Qualifications** | 🇧🇷 Brazil — 20 tournaments |
-| **Top Host Nation** | 🇲🇽 Mexico & 🇮🇹 Italy — Hosted twice each |
+| **Most Titles** | Brazil — 5 World Cup wins |
+| **Most Finals Appearances** | Brazil — 6 Finals, 9 Semi-Finals |
+| **Most Qualifications** | Brazil — 20 tournaments |
+| **Top Host Nation** | Mexico & Italy — Hosted twice each |
 | **Peak Goals Scored** | 1954 Switzerland — Highest goals in a single edition |
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 FIFA World Cup Results 1930-2014/
@@ -43,7 +43,7 @@ FIFA World Cup Results 1930-2014/
 
 ---
 
-## 📈 Dashboard Components
+## Dashboard Components
 
 The Tableau dashboard includes the following visualizations:
 
@@ -57,23 +57,23 @@ The Tableau dashboard includes the following visualizations:
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 | Color | Hex Code | Usage |
 |---|---|---|
-| 🟢 Green | `#64a737` | Primary accent |
-| 🟡 Yellow | `#ffaa00` | Secondary accent |
+| Green | `#64a737` | Primary accent |
+| Yellow | `#ffaa00` | Secondary accent |
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Tableau Desktop** — Dashboard design and data visualization
 - **Microsoft Excel** — Source data (`world_cup_results.xlsx`)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -84,7 +84,7 @@ The Tableau dashboard includes the following visualizations:
 
 ---
 
-## 📄 Dataset
+## Dataset
 
 The dataset (`world_cup_results.xlsx`) contains match-level results for every FIFA World Cup tournament from **1930 to 2014**, including:
 
@@ -94,7 +94,7 @@ The dataset (`world_cup_results.xlsx`) contains match-level results for every FI
 
 ---
 
-## 📜 License
+## License
 
 This project is intended for educational and analytical purposes. The FIFA World Cup data is publicly available.
 
@@ -103,5 +103,5 @@ This project is intended for educational and analytical purposes. The FIFA World
 <p align="center">
   <img src="assets/World Cup Logo.png" alt="FIFA World Cup Logo" width="120"/>
   <br/>
-  <em>Built with 📊 Tableau</em>
+  <em>Built with Tableau</em>
 </p>
